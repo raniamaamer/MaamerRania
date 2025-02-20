@@ -29,9 +29,13 @@ I'm Rania Maamer, a Business Intelligence and Data Analysis graduate, as well as
 
 ---------------------------------------------------------------------------------------------------------------
 ## Stats
+
 ![RaniaMaamer GitHub stats](https://github-readme-stats.vercel.app/api?username=raniamaamer&show-icons=true&theme=radical)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=raniamaamer&theme=radica)](https://git.io/streak-stats)
-[![maamerrania's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raniamaamer&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=raniamaamer&theme=radical)](https://git.io/streak-stats)
+
+[![maamerrania's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raniamaamer&layout=compact&theme=radical)]
+(https://github.com/anuraghazra/github-readme-stats)
 ---------------------------------------------------------------------------------------------------------------
 ## Recent GitHub Activity
 
