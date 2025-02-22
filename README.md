@@ -18,6 +18,7 @@ I'm Rania Maamer, a Business Intelligence and Data Analysis graduate, as well as
 <code><img height="20" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/PyTorch-FFD43B?style=for-the-badge&logo=pytorch&logoColor=red"></code>
 <code><img height="20" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"></code>
@@ -32,7 +33,7 @@ I'm Rania Maamer, a Business Intelligence and Data Analysis graduate, as well as
 
 ![RaniaMaamer GitHub stats](https://github-readme-stats.vercel.app/api?username=raniamaamer&show-icons=true&theme=radical)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=raniamaamer&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=raniamaamer&theme=dark)](https://git.io/streak-stats)
 
 [![maamerrania's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raniamaamer&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
