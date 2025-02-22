@@ -18,7 +18,7 @@ I'm Rania Maamer, a Business Intelligence and Data Analysis graduate, as well as
 <code><img height="20" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/Pandas-176139?style=for-the-badge&logo=pandas&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/PyTorch-001D6E?style=for-the-badge&logo=pytorch&logoColor=red"></code>
+<code><img height="20" src="https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch&logoColor=orange"></code>
 <code><img height="20" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"></code>
